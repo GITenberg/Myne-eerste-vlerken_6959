@@ -1,0 +1,23 @@
+_repo: Myne-eerste-vlerken_6959
+creator:
+  author:
+    agent_name: Stroobant, Eugeen Edward
+    birthdate: 1819
+    deathdate: 1889
+    gutenberg_agent_id: '2275'
+    url: http://www.gutenberg.org/2009/agents/2275
+    wikipedia: http://www.dbnl.nl/auteurs/auteur.php3?id=stro011
+description: ''
+gutenberg_issued: '2004-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6959'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Poetry'
+title: Myne eerste vlerken
+url: http://www.gutenberg.org/ebooks/6959
