@@ -1,4 +1,8 @@
 _repo: Myne-eerste-vlerken_6959
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Stroobant, Eugeen Edward
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2275
     wikipedia: http://www.dbnl.nl/auteurs/auteur.php3?id=stro011
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6959#Myne-eerste-vlerken
 gutenberg_issued: '2004-11-01'
 gutenberg_type: Text
 identifiers:
